@@ -1,0 +1,41 @@
+@import url('https://unpkg.com/tacit-css@1.5.1/dist/tacit-css-1.5.1.min.css');
+
+body {
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.header small {
+    color: #555;
+}
+
+.channel-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px 5px;
+    background: #ccc;
+}
+
+.channel {
+    display: block;
+    width: 270px;
+    text-align: center;
+    background: #258;
+    color: #fff;
+    padding: 5px 0;
+    margin: 5px;
+}
+
+.channel:hover {
+    text-decoration: none;
+    background: #036;
+}
