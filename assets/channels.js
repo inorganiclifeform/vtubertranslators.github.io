@@ -104,6 +104,10 @@ window.channels = [
         "url": "https://www.youtube.com/channel/UCoe3QLdQk2TTJd8iXJkQLmA"
     },
     {
+        "name": "Ryuzu Translations",
+        "url": "https://www.youtube.com/channel/UCP4msgO3fnUKZ2EwRvR2bpA"
+    },
+    {
         "name": "Sushi [Hololive and Vtubers]",
         "url": "https://www.youtube.com/channel/UC4Fh9OcvIEWK405Cvg25jDw"
     },
