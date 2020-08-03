@@ -108,6 +108,10 @@ window.channels = [
         "id": "UCP4msgO3fnUKZ2EwRvR2bpA"
     },
     {
+        "name": "Shiroi Translations",
+        "id": "UCPtSzsMsjUgX2EEPt86BLCw"
+    },
+    {
         "name": "Sushi [Hololive and Vtubers]",
         "id": "UC4Fh9OcvIEWK405Cvg25jDw"
     },
