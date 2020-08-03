@@ -1,6 +1,6 @@
 function createList(channels) {
     return channels.map((channel) => `
-        <a href="${channel.url}/videos" class="channel" target="_blank">
+        <a href="https://www.youtube.com/channel/${channel.id}/videos" class="channel ta-c" target="_blank">
             ${channel.name}
         </a>
     `).join('');
