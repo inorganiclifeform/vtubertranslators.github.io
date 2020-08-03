@@ -150,5 +150,9 @@ window.channels = [
     {
         "name": "Zestyable",
         "url": "https://www.youtube.com/channel/UCPjJnxungJanXhWiQ_8ohTg"
+    },
+    {
+        "name": "ZoboCamel",
+        "url": "https://www.youtube.com/channel/UCJEyZ84dJStaX-G2xGIvb9A"
     }
 ];
