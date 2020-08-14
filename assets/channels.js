@@ -6,6 +6,9 @@ window.channels = [
         "name": "alim Translations",
         "id": "UCTNmMxKhat_odDW14ggtx3g"
     }, {
+        "name": "Angle",
+        "id": "UC5hYWH4J8gYxQmyuyWWC8gw"
+    }, {
         "name": "Another Bad Translator",
         "id": "UC77k5wcVFesxx-ThxUeWpfA"
     }, {
@@ -24,6 +27,9 @@ window.channels = [
         "name": "Cnouki",
         "id": "UCK9ERfTI-O2gSUwujTod1Gg"
     }, {
+        "name": "CrimsonFart Holo-translations",
+        "id": "UCmQN__W-mWzqAKc8Y0GTsTg"
+    }, {
         "name": "DV Translation",
         "id": "UC6c3ec5vj3ZAZXDUBLTvL2A"
     }, {
@@ -35,6 +41,9 @@ window.channels = [
     }, {
         "name": "Frozen Mikan Subs",
         "id": "UCbdqoQtVFK_BluvIxGAUdKQ"
+    }, {
+        "name": "Holoclip",
+        "id": "UCFyuO_tHQFTMQaakIALlmog"
     }, {
         "name": "HoloLive EngSub Cuts",
         "id": "UCsfho72y27BF4-98T3-SvSQ"
@@ -63,14 +72,23 @@ window.channels = [
         "name": "lyger VTuber translations",
         "id": "UCU0Z5716wQX8IIZVna7G0zg"
     }, {
+        "name": "merinメルかりや",
+        "id": "UCxnVt6Gi-nLrMvn8miTV_cQ"
+    }, {
         "name": "Neko Mikuri 寝込みくり",
         "id": "UCZohBcP4HL5UxV4xwY_81YA"
     }, {
         "name": "Nir's Translations",
         "id": "UCK-kEza25H_UpIo1KAWYifw"
     }, {
+        "name": "Onigiricat",
+        "id": "UCkunHywtNmzdhsmVCsGHaoA"
+    },{
         "name": "osakaki",
         "id": "UCYn1_-yGrxKJQYKrMl7CqZQ"
+    }, {
+        "name": "OtakMori Translations - VTubers",
+        "id": "UCF4-I8ZQL6Aa-iHfdz-B9KQ"
     }, {
         "name": "Pentao「ペンタオ」",
         "id": "UCLzEDWl1nj4RGpzbt6COPDQ"
@@ -90,6 +108,9 @@ window.channels = [
         "name": "teatimeUK subs",
         "id": "UCxSF6v33a_qh97zu4IdAQtQ"
     }, {
+        "name": "TeeTeeSubs",
+        "id": "UCNhodqdZmdnPiP4Yu6Usy5g"
+    }, {
         "name": "TOKI Vtuber Clips",
         "id": "UCtN-Y-PyeERTe7m0aAk3Zhg"
     }, {
@@ -104,6 +125,9 @@ window.channels = [
     }, {
         "name": "VTuber for ALL",
         "id": "UCwq_gUBsgrO-X-J8Z5e7q8g"
+    }, {
+        "name": "Yoyuu 悠羽千葵",
+        "id": "UCyHJ0eP91ufWGGJQdIQGlSA"
     }, {
         "name": "Yukimari Snowball",
         "id": "UCBHe2X8RRhV_5HlQMkCbnmw"
